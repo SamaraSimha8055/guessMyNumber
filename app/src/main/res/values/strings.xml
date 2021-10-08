@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Guess My Number</string>
+    <string name="what_is_your_number">What is your number?</string>
+    <string name="checked_number">This is your number</string>
+    <string name="btn_reset">reset</string>
+    <string name="str_arrow_down">press arrow down</string>
+    <string name="app_guess_success">successfully guessed</string>
+    <string name="str_arrow_up">press arrow up</string>
+    <string name="str_question">Is your number %d ?</string>
+    <string name="str_success">Your Number Is %d</string>
+</resources>
